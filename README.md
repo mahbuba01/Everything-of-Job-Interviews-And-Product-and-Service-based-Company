@@ -106,6 +106,23 @@ Cracking the Coding Interview
 1. Hacker News [https://news.ycombinator.com/]
 2. Lobsters [https://lobste.rs/]
 
+# Why Some Engineers Earn More Than Others Despite Having the Same Experience? So How to Increase Your Earnings?
+
+1. Depth Matters More Than General Knowledge: Having surface-level knowledge of many things is really good but being a specialist in one area.
+
+2. Prioritize Problem-Solving Over Plain Coding: Companies pay for Real Solutions, not just Code! Without expertise in System Design, Long-term Scalability, Performance Tuning, Business Logic, Security, Database Indexing, API Rate Limiting; Growth is limited. Always understand a feature’s purpose first. Like if an API underperforms; Identify the root cause, improve queries & add caching.
+
+3. Get Strong at System Design & Performance Tuning (differentiators for high-paying engineers): Like can your system scale to millions of users while optimizing performance through database indexing, caching, and faster API response times?
+
+4. Keep Learning Beyond Work Hours: Read technical books, Stay updated with new technologies & frameworks, Work on side projects that showcase your skills in solving real-world problems.  
+
+5. Build a Network & Strengthen Your Personal Brand: Share knowledge online to boost visibility with recruiters & hiring managers.  
+
+6. Master Negotiation Skills to Maximize Your Worth: Engineers who negotiate well earn more. Research market rates (e.g., Levels.fyi), quantify your impact (e.g., “I optimized a system to save $100K”) & ask confidently for what you deserve. Don’t just take the first offer; Push for better salary, equity or bonuses.
+For example: Thanks for the $180K offer! Based on my experience & market data, Am targeting $200K; How can we align on that?
+
+
+
 
 
 
